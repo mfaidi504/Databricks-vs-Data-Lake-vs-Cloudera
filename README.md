@@ -1,5 +1,6 @@
 # Databricks-vs-Data-Lake-vs-Cloudera
 
+![sqlcommand](flow.png)
 
 # Databricks vs Data Lake vs Cloudera
 
